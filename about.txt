@@ -1,0 +1,7 @@
+Hello public
+This is a project to learn about how google docs work
+Mainly to learn about the feature when 2 people are simultaneously working on editing the same line
+Thats it.
+
+Must knows before start :
+- gotta check
